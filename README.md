@@ -1,4 +1,4 @@
-<span style="font-size: 90px;">**Bienvenue sur mon profil GitHub!.**</span>
+<span style="font-size: 200px;">**Bienvenue sur mon profil GitHub!.**</span>
 
 - 👋 Bonjour ! Je suis Manel, un développeur web passionné et créatif, prêt à relever de nouveaux défis et à collaborer sur des projets innovants.
   
